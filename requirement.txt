@@ -1,0 +1,8 @@
+diffusers
+torch
+accelerate
+fastapi
+pillow
+pandas
+transformers
+openpyxl
